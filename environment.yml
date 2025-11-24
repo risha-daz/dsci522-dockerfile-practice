@@ -2,7 +2,7 @@ name: lab2env
 channels:
   - conda-forge
 dependencies:
-  - python=3.11.10
+  - python=3.14.0
   - pandas=2.3.3
   - conda-lock=2.5.8
   - matplotlib=3.10.8
